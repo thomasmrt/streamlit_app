@@ -16,7 +16,6 @@ data = pd.DataFrame({'Col1': [1,2,3],
                      'Col2': ['a', 'b', 'c']})
 
 
-st.data_editor(data)
 
 edited_df = st.data_editor(data)
 
