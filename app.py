@@ -18,6 +18,8 @@ data = pd.DataFrame({'Col1': [1,2,3],
 
 st.data_editor(data)
 
+st.write(sum(data['Col1']))
+
 st.markdown(
     """
     Streamlit is an open-source app framework built specifically for
