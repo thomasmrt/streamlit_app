@@ -17,7 +17,7 @@ data = pd.DataFrame({'Col1': [1,2,3],
 
 
 
-edited_df = st.data_editor(data)
+edited_df = st.data_editor(data, num_rows="dynamic")
 
 st.write(sum(edited_df['Col1']))
 
