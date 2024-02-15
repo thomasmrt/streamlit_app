@@ -18,7 +18,9 @@ data = pd.DataFrame({'Col1': [1,2,3],
 
 st.data_editor(data)
 
-st.write(sum(data['Col1']))
+edited_df = st.data_editor(data)
+
+st.write(sum(edited_df['Col1']))
 
 st.markdown(
     """
