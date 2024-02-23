@@ -1,0 +1,253 @@
+
+
+
+
+     S E C O N D   O R D E R   B R A N C E S                 
+     --------------------------------------------------------
+              Number of visual grps that each branch contains
+     Branch Supernode  Grp1  Grp2  ....  ....
+          1 (     4)      0     1     0     0     0     0
+          2 (     5)      0     1     0     0     0     0
+          3 (     6)      0     1     0     0     0     0
+          4 (     7)      0     1     0     0     0     0
+          5 (     8)      0     1     0     0     0     0
+          6 (     9)      0     1     0     0     0     0
+          7 (    10)      0     1     0     0     0     0
+          8 (    11)      0     1     0     0     0     0
+          9 (    12)      0     1     0     0     0     0
+         10 (    13)      0     1     0     0     0     0
+         11 (    14)      0     1     0     0     0     0
+         12 (    15)      0     1     0     0     0     0
+         13 (    16)      0     0     1     0     0     0
+         14 (    17)      0     0     1     0     0     0
+         15 (    18)      0     0     1     0     0     0
+         16 (    19)      0     0     1     0     0     0
+         17 (    20)      0     0     1     0     0     0
+         18 (    21)      0     0     1     0     0     0
+         19 (    22)      0     0     1     0     0     0
+         20 (    23)      0     0     1     0     0     0
+         21 (    24)      0     0     1     0     0     0
+         22 (    25)      0     0     1     0     0     0
+         23 (    26)      0     0     1     0     0     0
+         24 (    27)      0     0     1     0     0     0
+         25 (    28)      0     0     1     0     0     0
+         26 (    29)      0     0     1     0     0     0
+         27 (    30)      0     0     1     0     0     0
+         28 (    31)      0     0     1     0     0     0
+         29 (    32)      0     0     1     0     0     0
+         30 (    33)      0     0     0     1     0     0
+         31 (    34)      0     0     0     1     0     0
+         32 (    35)      0     0     0     1     0     0
+         33 (    36)      0     0     0     1     0     0
+         34 (    37)      0     0     0     1     0     0
+         35 (    38)      0     0     0     1     0     0
+         36 (    39)      0     0     0     1     0     0
+         37 (    40)      0     0     0     1     0     0
+         38 (    41)      0     0     0     1     0     0
+         39 (    42)      0     0     0     1     0     0
+         40 (    43)      0     0     0     1     0     0
+         41 (    44)      0     0     0     1     0     0
+         42 (    45)      0     0     0     1     0     0
+         43 (    46)      0     0     0     1     0     0
+         44 (    47)      0     0     0     1     0     0
+         45 (    48)      0     0     0     1     0     0
+         46 (    49)      0     0     0     1     0     0
+         47 (    50)      0     0     0     1     0     0
+         48 (    51)      0     0     0     1     0     0
+         49 (    52)      0     0     0     1     0     0
+         50 (    53)      0     0     0     1     0     0
+         51 (    54)      0     0     0     1     0     0
+         52 (    55)      0     0     0     0     1     0
+         53 (    56)      0     0     0     0     1     0
+         54 (    57)      0     0     0     0     1     0
+         55 (    58)      0     0     0     0     1     0
+         56 (    59)      0     0     0     0     1     0
+         57 (    60)      0     0     0     0     1     0
+         58 (    61)      0     0     0     0     1     0
+         59 (    62)      0     0     0     0     1     0
+         60 (    63)      0     0     0     0     1     0
+         61 (    64)      0     0     0     0     1     0
+         62 (    65)      0     0     0     0     1     0
+         63 (    66)      0     0     0     0     1     0
+         64 (    67)      0     0     0     0     1     0
+         65 (    68)      0     0     0     0     1     0
+         66 (    69)      0     0     0     0     1     0
+         67 (    70)      0     0     0     0     1     0
+         68 (    71)      0     0     0     0     1     0
+         69 (    72)      0     0     0     0     1     0
+         70 (    73)      0     0     0     0     1     0
+         71 (    74)      0     0     0     0     1     0
+         72 (    75)      0     0     0     0     1     0
+         73 (    76)      0     0     0     0     1     0
+         74 (    77)      0     0     0     0     1     0
+         75 (    78)      0     0     0     0     1     0
+         76 (    79)      0     0     0     0     1     0
+         77 (    80)      0     0     0     0     1     0
+         78 (    81)      0     0     0     0     1     0
+         79 (    82)      0     0     0     0     0     1
+         80 (    83)      0     0     0     0     0     1
+         81 (    84)      0     0     0     0     0     1
+         82 (    85)      0     0     0     0     0     1
+         83 (    86)      0     0     0     0     0     1
+         84 (    87)      0     0     0     0     0     1
+         85 (    88)      0     0     0     0     0     1
+         86 (    89)      0     0     0     0     0     1
+         87 (    90)      0     0     0     0     0     1
+         88 (    91)      0     0     0     0     0     1
+         89 (    92)      0     0     0     0     0     1
+         90 (    93)      0     0     0     0     0     1
+         91 (    94)      0     0     0     0     0     1
+         92 (    95)      0     0     0     0     0     1
+         93 (    96)      0     0     0     0     0     1
+         94 (    97)      0     0     0     0     0     1
+         95 (    98)      0     0     0     0     0     1
+         96 (    99)      0     0     0     0     0     1
+         97 (   100)      0     0     0     0     0     1
+         98 (   101)      0     0     0     0     0     1
+         99 (   102)      0     0     0     0     0     1
+        100 (   103)      0     0     0     0     0     1
+        101 (   104)      0     0     0     0     0     1
+        102 (   105)      0     0     0     0     0     1
+        103 (   106)      0     0     0     0     0     1
+        104 (   107)      0     0     0     0     0     1
+        105 (   108)      0     0     0     0     0     1
+        106 (   109)      0     0     0     0     0     1
+        107 (   110)      0     0     0     0     0     1
+        108 (   111)      0     0     0     0     0     1
+        109 (   112)      0     0     0     0     0     1
+        110 (   113)      0     0     0     0     0     1
+
+
+
+     ------------------------------------------------------------------------------------------------------------------------------------
+     T A B L E  O F  G E O M E T R I C A L  P R O P.
+     ------------------------------------------------------------------------------------------------------------------------------------
+     Group name                             As          Yc          Zc          It          Iy          Iz          Ao          Ai-------   
+                                            mm2         mm          mm          mm4         mm4         mm4         mm2         mm2         
+     ------------------------------------------------------------------------------------------------------------------------------------
+                    CROD-BEAM-ROD-COPPER 0.10387E+03-0.57500E+01-0.44301E-14 0.16947E+04 0.85854E+03 0.85854E+03 0.10387E+03 0.00000E+00
+                 GEOM1-BEAM-GEOM1-COPPER 0.11955E+02-0.12403E+01-0.15397E+01 0.21579E+02 0.13856E+02 0.98090E+01 0.11955E+02 0.00000E+00
+                 GEOM2-BEAM-GEOM2-COPPER 0.12235E+02-0.11959E+01-0.15804E+01 0.22533E+02 0.14682E+02 0.10180E+02 0.12235E+02 0.00000E+00
+                 GEOM3-BEAM-GEOM3-COPPER 0.12388E+02-0.11712E+01-0.16011E+01 0.23057E+02 0.15171E+02 0.10367E+02 0.12388E+02 0.00000E+00
+                 GEOM4-BEAM-GEOM4-COPPER 0.12486E+02-0.11555E+01-0.16131E+01 0.23397E+02 0.15494E+02 0.10475E+02 0.12486E+02 0.00000E+00
+                 GEOM5-BEAM-GEOM5-COPPER 0.12552E+02-0.11446E+01-0.16214E+01 0.23625E+02 0.15722E+02 0.10550E+02 0.12552E+02 0.00000E+00
+
+
+
+
+     C O N T R I B U T I O N  F R O M   E A C H  G R O U P
+     --------------------------------------------------------
+          Mass             EA        GIT        EI      Group
+     ----------------------------------------------------------------------------------------------------
+          kg/m             MN        kNm2       kNm2       
+     ----------------------------------------------------------------------------------------------------
+           0.9234      9.1287      0.0552      0.0755   CROD-BEAM-ROD-COPPER
+           1.2799     12.4739      0.0133      0.0124   GEOM1-BEAM-GEOM1-COPPER
+           1.8629     17.8757      0.0433      0.0183   GEOM2-BEAM-GEOM2-COPPER
+           2.4539     23.0564      0.1333      0.0241   GEOM3-BEAM-GEOM3-COPPER
+           3.0554     27.9609      0.3506      0.0296   GEOM4-BEAM-GEOM4-COPPER
+           3.6693     32.5379      0.7956      0.0350   GEOM5-BEAM-GEOM5-COPPER
+
+
+
+     F I N A L   S U M M A R Y   R E P O R T   
+     ------------------------------------------------------------------------
+     Mass (tubes and voids empty)                :    13.244928 kg/m
+     Mass (tubes filled)                         :    13.244928 kg/m
+     Mass (filled and flooded)                   :    13.244928 kg/m
+     Weight in air (tubes and voids empty)       :     0.000000 kN/m
+     Weight in air (tubes filled)                :     0.000000 kN/m
+     Weight in air (filled and flooded)          :     0.000000 kN/m
+     Submerged weight (tubes and voids empty)    :     0.000000 kN/m
+     Submerged weight (tubes filled)             :     0.000000 kN/m
+     Submerged weight (filled and flooded)       :     0.000000 kN/m
+     Axial stiffness estimate                    :   123.033633 MN  
+     Torsion stiffness estimate                  :     1.391320 kNm2
+     Bending stiffness estimate (zero friction)  :     0.194809 kNm2
+
+
+
+
+     F R I C T I O N                                      
+     -----------------------------------------------------
+
+
+     Overruling slip level for friction material AUTO_1,
+     new level  0.000E+00
+
+
+     Overruling slip level for friction material AUTO_2,
+     new level  0.000E+00
+
+
+     Overruling slip level for friction material AUTO_3,
+     new level  0.000E+00
+
+
+     Overruling slip level for friction material AUTO_4,
+     new level  0.000E+00
+
+
+     Overruling slip level for friction material AUTO_5,
+     new level  0.000E+00
+
+
+     Overruling slip level for friction material AUTO_6,
+     new level  0.000E+00
+
+
+     Overruling slip level for friction material AUTO_7,
+     new level  0.000E+00
+
+
+     Overruling slip level for friction material AUTO_8,
+     new level  0.000E+00
+
+
+     Overruling slip level for friction material AUTO_9,
+     new level  0.000E+00
+
+
+     For contact between GEOM1 and ROD using
+     material AUTO_1 slip takes place at:
+     Curvature  0.000E+00 (Radius   Infinity)
+
+
+     For contact between GEOM1 and GEOM1 using
+     material AUTO_2 slip takes place at:
+     Curvature  0.000E+00 (Radius   Infinity)
+
+
+     For contact between GEOM1 and GEOM1 using
+     material AUTO_3 slip takes place at:
+     Curvature  0.000E+00 (Radius   Infinity)
+
+
+     For contact between GEOM2 and GEOM2 using
+     material AUTO_4 slip takes place at:
+     Curvature  0.000E+00 (Radius   Infinity)
+
+
+     For contact between GEOM2 and GEOM2 using
+     material AUTO_5 slip takes place at:
+     Curvature  0.000E+00 (Radius   Infinity)
+
+
+     For contact between GEOM3 and GEOM3 using
+     material AUTO_6 slip takes place at:
+     Curvature  0.000E+00 (Radius   Infinity)
+
+
+     For contact between GEOM3 and GEOM3 using
+     material AUTO_7 slip takes place at:
+     Curvature  0.000E+00 (Radius   Infinity)
+
+
+     For contact between GEOM4 and GEOM4 using
+     material AUTO_8 slip takes place at:
+     Curvature  0.000E+00 (Radius   Infinity)
+
+
+     For contact between GEOM4 and GEOM4 using
+     material AUTO_9 slip takes place at:
+     Curvature  0.000E+00 (Radius   Infinity)

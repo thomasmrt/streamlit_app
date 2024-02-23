@@ -1,0 +1,30 @@
+[[pages]]
+path = "app.py"
+name = "Home"
+icon = ":hammer_and_wrench:"
+
+[[pages]]
+path = "other/comment_extractor.py"
+name = "Comment extractor"
+icon = ":page_facing_up:"
+
+[[pages]]
+path = "other/python_cheatsheet.py"
+name = "Python Cheatsheet"
+icon = ":snake:"
+
+
+[[pages]]
+path = "other/uflex_mono.py"
+name = "Uflex - Monophase cable"
+icon = ":bar_chart:"
+
+[[pages]]
+path = "other/uflex_keystone.py"
+name = "Uflex - Keystone"
+icon = ":diamonds:"
+
+[[pages]]
+path = "other/001_Simple_tool.py"
+name = "Fatigue calculation"
+icon = ":sleeping:"

@@ -1,0 +1,54 @@
+  WIN  version linked 2018-11-15 17:18:10
+  Version and build: 2.8.9 - 2018-10-25
+
+  UFLEX2D FLEXlm license checked out
+  License expires 31-mar-2024 
+
+
+=============================================================================
+
+
+
+========================================================================
+
+                             U F L E X 2 D               
+
+           2D   U M B I L I C A L      A N A L Y S I S  
+
+                        M A I N   M O D U L E            
+
+========================================================================
+                                                         
+                        Developed by :                   
+
+                         SINTEF Ocean                    
+                      Trondheim, Norway                  
+
+
+                Version : 2.8.9 / 2018-10-25
+      WIN  version linked 2018-11-15 17:18:10
+                Run at 2024-02-22 16:13:26
+
+========================================================================
+ UFLEX2D is processing : 
+
+  *** ERROR IN UFINMATPR ***
+
+
+   Error during read of *MATERIAL*    input 
+   Wrong number of parameters      
+
+  *** ERROR IN UFINBITUM ***
+ *** ERROR RETURN FROM UFINPUT ***
+
+  UFLEX2D FLEXlm license checked in
+  at 2024-02-22 16:13:28
+
+  Total CPU   time:      0.34 s
+  Total clock time:      1.86 s
+
+
+=============================================================================
+
+
+ *** Error return from UFLEX2D ***

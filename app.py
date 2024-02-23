@@ -1,40 +1,41 @@
 import streamlit as st
 import pandas as pd
+from st_pages import show_pages_from_config
+from PIL import Image
+import streamlit as st
+import psutil
+import time
+im = Image.open("assets/kraken.png")
 
 
 st.set_page_config(
-    page_title="Hello",
-    page_icon="👋",
+    page_title="Home",
+    page_icon=im,
+    layout="wide",
 )
 
 
-
-st.write("# Welcome to Streamlit! 👋")
-
-
-data = pd.DataFrame({'Col1': [1,2,3],
-                     'Col2': ['a', 'b', 'c']})
+show_pages_from_config(".streamlit/pages_sections.toml")
 
 
 
-edited_df = st.data_editor(data, num_rows="dynamic")
+st.markdown(body='# Kraken tools', unsafe_allow_html=False)
 
-st.write(sum(edited_df['Col1']))
 
-st.markdown(
-    """
-    Streamlit is an open-source app framework built specifically for
-    Machine Learning and Data Science projects.
-    **👈 Select a demo from the sidebar** to see some examples
-    of what Streamlit can do!
-    ### Want to learn more?
-    - Check out [streamlit.io](https://streamlit.io)
-    - Jump into our [documentation](https://docs.streamlit.io)
-    - Ask a question in our [community
-        forums](https://discuss.streamlit.io)
-    ### See more complex demos
-    - Use a neural net to [analyze the Udacity Self-driving Car Image
-        Dataset](https://github.com/streamlit/demo-self-driving)
-    - Explore a [New York City rideshare dataset](https://github.com/streamlit/demo-uber-nyc-pickups)
-"""
-)
+
+cpu_percent = psutil.cpu_percent(interval=1)
+st.metric(label="CPU usage", value=f"{cpu_percent} %")
+   
+
+memory_usage = psutil.virtual_memory()
+
+st.metric(label="Memory usage", value=f"{memory_usage.percent} %")
+
+
+my_bar = st.progress(0, text="")
+
+while True:
+    cpu_percent = psutil.cpu_percent(interval=1)
+    progress_text = f"CPU usage: {cpu_percent}"
+
+    my_bar.progress(cpu_percent/100, text=progress_text)
